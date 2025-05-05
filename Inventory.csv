@@ -1,0 +1,3 @@
+DateOfReceipt,Name,Grade,BatchNo,LotNo,QuantityReceived,QuantityConsumed,TotalQuantityAvailable,MinimumAvailableQuantity,NameDepartmentUsing,Status
+12/29/24,Item_11,Grade_A,Batch_9811,Lot_7764,87,73,14,42,Department_Support,Reorder
+12/31/24,Item_12,Grade_A,Batch_9640,Lot_2208,183,133,50,46,Department_Quality,Reorder
